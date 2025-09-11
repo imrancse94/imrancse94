@@ -9,7 +9,7 @@ I’m a passionate full-stack developer with over 9 years of professional experi
 ## 🚀 Tech Stack  
 
 - **Backend Development:**  
-  PHP | Laravel | CakePHP | Node.js | Express.js  
+  PHP | Laravel | CakePHP | Node.js | Express.js | Golang
 
 - **Frontend Development:**  
   React.js | JavaScript (ES6+) | HTML5 | CSS3  
