@@ -34,9 +34,9 @@ I’m a passionate full-stack developer with over 9 years of professional experi
 
 ## 📫 Connect With Me  
 
-- LinkedIn: [Your Profile Link]  
-- GitHub: [Your GitHub Profile Link]  
-- Email: [Your Email Address]  
+- LinkedIn: https://www.linkedin.com/in/imranwebsbd  
+- GitHub: https://github.com/imrancse94
+- Email: imrancse94@gmail.com  
 
 ---
 
