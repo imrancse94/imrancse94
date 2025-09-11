@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Imran Hossain  
 
-<!--
-**imrancse94/imrancse94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | 9+ Years of Experience**  
 
-Here are some ideas to get you started:
+I’m a passionate full-stack developer with over 9 years of professional experience building scalable web and mobile applications. I love crafting clean, efficient, and maintainable code while solving real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack  
+
+- **Backend Development:**  
+  PHP | Laravel | CakePHP | Node.js | Express.js  
+
+- **Frontend Development:**  
+  React.js | JavaScript (ES6+) | HTML5 | CSS3  
+
+- **Mobile Development:**  
+  React Native  
+
+- **Other Skills:**  
+  REST APIs | Authentication | Database Design | Deployment  
+
+---
+
+## 🌟 What I Do  
+
+- Architect and develop full-stack applications  
+- Build REST APIs and backend services  
+- Create responsive web apps with ReactJS  
+- Develop cross-platform mobile apps with React Native  
+- Mentor and collaborate with teams to deliver robust solutions  
+
+---
+
+## 📫 Connect With Me  
+
+- LinkedIn: [Your Profile Link]  
+- GitHub: [Your GitHub Profile Link]  
+- Email: [Your Email Address]  
+
+---
+
+⭐️ Feel free to explore my repositories and connect if you’d like to collaborate!  
