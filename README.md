@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Imran Hossain  
 
-💻 **Full-Stack Developer | 9+ Years of Experience**  
+💻 **Full-Stack Developer | 10+ Years of Experience**  
 
 I’m a passionate full-stack developer with over 9 years of professional experience building scalable web and mobile applications. I love crafting clean, efficient, and maintainable code while solving real-world problems.  
 
